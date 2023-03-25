@@ -4,8 +4,8 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        String Test = "test";
-        System.out.println(Test);
+        String test = "test";
+        System.out.println(test);
 
     }
 }
